@@ -10,7 +10,7 @@
       {
         "name": "core",
         "sshAuthorizedKeys": [
-          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDGdByTgSVHq......."
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBXKHMJnmG1k8yRVF/o7ybqB/JtyqNXe3SNho1415icj2wxcEIx8J/DtqSVW0zpEZoNUsPmYRmO45pzkwv923hAzgK6xB6RNPoeIb+QgP2i3N2nMB+1Fdqtj6Q4Ma+YQaAy6KYjyIcXfrCA1fX9hdM1jgyU+cc2dlAi7COHfWF599ZTH+QbTgYByrmZSHdky+mw1MdzevPoKg9mFGcRz3TcxD01dwDVVLDHjxnwnKbj2kCLNN7i951O2mmyl2cRClSu9RZ2ZbPQ1LDgPbcUCBmVdpNBQyXCi7WCmKMXX99d1qqm4uZB7nq48jFtQe8nZdDzcvIxDia842vrLJ/Anfb lucian@axl.local"
         ]
       }
     ]
